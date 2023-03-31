@@ -11,3 +11,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Inspiration and ideas
 
 The code used in this project is mainly introduced by [Mosh Hamedani](https://twitter.com/moshhamedani) in his old great Udemy course on [Testing Angular 4 Apps With Jasmine](https://www.udemy.com/share/1002tYBEEScFlSRXQ=/).
+
+Una vez clonado ejecutar comando:
+> npm install
