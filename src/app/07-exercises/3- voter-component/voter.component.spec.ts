@@ -1,6 +1,6 @@
 import { VoterComponent } from './voter.component';
 
-xdescribe('VoterComponent', () => {
+describe('VoterComponent', () => {
 	let component: VoterComponent;
 
 	beforeEach(() => {

@@ -32,7 +32,7 @@ describe('VoterComponent', () => {
 		// wrapper de nativeElement
 		fixture.debugElement;
 
-		// 2) podemos generar esto con de manera automática con: > ng generate component
+		// 2) podemos generar esto de manera automática con: > ng generate component
 	});
 
 	// Bindings
